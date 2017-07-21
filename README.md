@@ -20,3 +20,10 @@ The overview of the problems is as follows.
 * 2012(PFI, Japanese only) : String processing. Generalized word chain game.
 
 * 2011(PFI, Japanese only) : String processing. Palindrome.
+
+## Reference for PFN internship
+
+ - [PFN 2017 Summer Internship Program](https://www.preferred-networks.jp/en/news/internship2017summer_en) / 
+ [PFN 2017夏季 インターン募集](https://www.preferred-networks.jp/ja/news/internship2017summer_jp)
+ - [夏季インターンのコーディング課題を公開します](https://research.preferred.jp/2016/07/intern-coding-tasks/)
+ 
